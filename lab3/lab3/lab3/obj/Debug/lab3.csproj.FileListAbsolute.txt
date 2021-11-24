@@ -1,0 +1,7 @@
+F:\kredek - init\lab3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\kredek - init\lab3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\kredek - init\lab3\lab3\lab3\bin\Debug\lab3.exe.config
+F:\kredek - init\lab3\lab3\lab3\bin\Debug\lab3.exe
+F:\kredek - init\lab3\lab3\lab3\bin\Debug\lab3.pdb
+F:\kredek - init\lab3\lab3\lab3\obj\Debug\lab3.exe
+F:\kredek - init\lab3\lab3\lab3\obj\Debug\lab3.pdb
